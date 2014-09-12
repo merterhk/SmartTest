@@ -110,5 +110,11 @@ $test->test("Post ile erişmek", function () use ($test) {
 </body>
 </html>
 ```
+
 ![Ekran görüntüsü 1](http://i.imgur.com/epKG1IX)
+
 ![Ekran görüntüsü 2](http://i.imgur.com/31Vl913)
+
+Lisans
+======
+MIT Public altında lisanslanmıştır.

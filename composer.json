@@ -1,20 +1,15 @@
 {
-    "name": "merterhk/SmartTest",
+    "name": "merterhk/smarttest",
     "type": "file",
     "license": "MIT",
     "authors": [
         {
             "name": "Merter Hami KARACAN",
-            "email": "merterhk@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.3"
     },
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-0": {
-            "merterhk": "SmartTest"
-        }
-    }
+
 }

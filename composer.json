@@ -4,12 +4,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Merter Hami KARACAN",
+            "name": "Merter Hami KARACAN"
         }
     ],
     "require": {
         "php": ">=5.3"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 
 }

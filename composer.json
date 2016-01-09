@@ -1,6 +1,6 @@
 {
     "name": "merterhk/smarttest",
-    "type": "file",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +10,7 @@
     "require": {
         "php": ">=5.3"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable" : true
 
 }
